@@ -1,0 +1,10 @@
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\bin\Debug\Weather_API.exe.config
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\bin\Debug\Weather_API.exe
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\bin\Debug\Weather_API.pdb
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.csproj.AssemblyReference.cache
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.Form1.resources
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.Properties.Resources.resources
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.csproj.GenerateResource.cache
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.csproj.CoreCompileInputs.cache
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.exe
+C:\Users\kuba-\source\repos\Weather_API\Weather_API\obj\Debug\Weather_API.pdb
