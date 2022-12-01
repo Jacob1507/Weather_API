@@ -15,7 +15,7 @@ namespace Weather_API
         public Form1()
         {
             InitializeComponent();
-            this.apikey = "96e3888824724493826191411222511";
+            this.apikey = "********************";
         }
 
         private void btnShowCloud_Click(object sender, EventArgs e)
