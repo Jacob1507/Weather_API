@@ -20,8 +20,6 @@ namespace Weather_API
 
         private void btnShowCloud_Click(object sender, EventArgs e)
         {
-            string uri = String.Format("http://api.weatherapi.com/v1/forecast.xml?key=96e3888824724493826191411222511&q={0}&days=1&aqi=no&alerts=no", city);
-            
             API apiOneDay = new API(this.apikey, txtCity.Text, 1);
             
             string maxTemp_c = apiOneDay.XMLItemToStr("maxtemp_c");
